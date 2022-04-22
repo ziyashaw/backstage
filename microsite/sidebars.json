@@ -262,6 +262,7 @@
       "permission/concepts",
       "permission/getting-started",
       "permission/writing-a-policy",
+      "permission/frontend-integration",
       "permission/custom-rules",
       {
         "type": "subcategory",
