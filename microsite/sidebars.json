@@ -270,7 +270,8 @@
           "permission/plugin-authors/01-setup",
           "permission/plugin-authors/02-adding-a-basic-permission-check",
           "permission/plugin-authors/03-adding-a-resource-permission-check",
-          "permission/plugin-authors/04-authorizing-access-to-paginated-data"
+          "permission/plugin-authors/04-authorizing-access-to-paginated-data",
+          "permission/plugin-authors/05-frontend-authorization"
         ]
       }
     ],
