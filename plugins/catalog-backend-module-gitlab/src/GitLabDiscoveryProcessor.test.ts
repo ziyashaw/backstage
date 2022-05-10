@@ -107,7 +107,7 @@ function getProcessor(config?: any): GitLabDiscoveryProcessor {
 describe('GitlabDiscoveryProcessor', () => {
   beforeAll(() => {
     server.listen();
-    jest.useFakeTimers('modern');
+    jest.useFakeTimers();
     jest.setSystemTime(new Date('2001-01-01T12:34:56Z'));
   });
   afterEach(() => server.resetHandlers());
