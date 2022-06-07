@@ -16,7 +16,7 @@ metadata:
 spec:
   type: openapi
   lifecycle: experimental
-  owner: team-c
+  owner: ziya
   definition: |
     openapi: "3.0.0"
     info:
