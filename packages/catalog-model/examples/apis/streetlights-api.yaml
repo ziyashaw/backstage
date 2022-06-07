@@ -12,7 +12,7 @@ metadata:
 spec:
   type: asyncapi
   lifecycle: production
-  owner: @github/ziyashaw
+  owner: ziyashaw
   definition: |
     asyncapi: 2.0.0
     info:
