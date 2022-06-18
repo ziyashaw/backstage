@@ -198,6 +198,6 @@ nav:
       - ADR012 - Plugin Package Structure: 'architecture-decisions/adr012-use-luxon-locale-and-date-presets.md'
       - ADR013 - Plugin Package Structure: 'architecture-decisions/adr013-use-node-fetch.md'
   - Support:
-      - Backstage Project Structure: 'support/project-structure.md'
-  - Glossary: glossary.md
+      - Backstage Project Structure: 'overview/support.md'
+  - Glossary: 'overview/glossary.md'
   - FAQ: FAQ.md
